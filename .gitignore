@@ -1,0 +1,9 @@
+# ignora carpeta node_modules
+**node_modules/*
+
+# ignora carpeta dist
+**dist/*
+**distIndex/*
+
+# ignora carpeta .vscode
+.vscode/
